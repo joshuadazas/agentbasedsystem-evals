@@ -1,0 +1,24 @@
+{
+  "total_clients": 15,
+  "total_justifications": 18,
+  "unique_justification_types": 5,
+  "avg_justifications_per_client": 1.2,
+  "clients_with_multiple_justifications": 3,
+  "most_common_justification": "Document rules not fully satisfied",
+  "most_common_justification_count": 10,
+  "justification_frequency": {
+    "Document rules not fully satisfied": 10,
+    "Low risk across checks": 4,
+    "Shareholder risk: high": 2,
+    "Company risk: high": 1,
+    "Representative risk: high": 1
+  },
+  "entity_type_distribution": {
+    "Client": 10,
+    "Business Contractor": 8
+  },
+  "decision_distribution": {
+    "Manual Review": 14,
+    "Accepted": 4
+  }
+}

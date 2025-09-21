@@ -1,0 +1,9 @@
+KYB Data Summary
+==================================================
+Total Jobs: 15
+Clients: 7
+Business Contractors: 8
+Manual Review: 11
+Approved: 0
+Avg Risk Score: 3.0
+Date Range: 2025-08-26 to 2025-09-09
