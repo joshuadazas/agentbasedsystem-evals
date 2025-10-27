@@ -2,3 +2,12 @@
 /.venv
 /Datos_Db.csv
 /EVALS Country.csv
+/eda.ipynb
+/agent_analysis.ipynb
+/postgresql-python-connection.ipynb
+/connectionfb.ipynb
+/kyb-job-analysis.ipynb
+/kyb-job-analysis.ipynb
+/*.csv
+/*.png
+/*.txt
